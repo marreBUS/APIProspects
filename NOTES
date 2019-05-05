@@ -1,0 +1,5 @@
+En kod som körs ett visst klockslag varje dag. 
+Kör ett API CALL mot StackOVerflow utifrån kriterierna. 
+Endast 10.000 rader calls kan göras, så varje ny körning måste spara senaste siffran.
+Eventuella resultat mailar profilURLen för vidare investigation
+Alternativt, om det finns möjlighet att hämta linkedIn/portfoliosidor? 
